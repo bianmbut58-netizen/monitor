@@ -1,0 +1,6 @@
+{
+  "name": "Web Monitor Uptime",
+  "description": "Website uptime and latency monitoring dashboard with Telegram alerts and Supabase database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
